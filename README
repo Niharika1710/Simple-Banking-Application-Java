@@ -1,0 +1,22 @@
+# Simple Banking Application (Core Java)
+
+A basic console-based banking system developed using **Core Java**.  
+This project demonstrates Java fundamentals such as OOP, encapsulation, methods, loops, and user input handling.
+
+## Features
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
+- Menu-driven Interface
+
+## Concepts Used
+- Classes & Objects
+- Encapsulation
+- Methods
+- Conditional Logic
+- Scanner Class
+- Loops
+
+## How to Run
+1. Navigate to the src folder:
